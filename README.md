@@ -1,4 +1,9 @@
 # 3d-printing
-3D printing models.
+Collection of models I've 3D printed.
 
-Files starting with `set` contain multiple STL models for easy/faster printing.
+This repo is a mixed for designs made by myself and designs downloaded from elsewhere (most notably, [Thingiverse](https://www.thingiverse.com/)).
+For content created by others, the LICENSE files in the respective subdirectories detail their copyright.
+
+gcode files are mostly for my own consumption as you'll probably have re-slice the STL files in the CAD/ folder to match your printer and filament.
+
+gcode files starting with `set` contain multiple models for easy/faster printing.
